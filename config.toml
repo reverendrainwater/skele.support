@@ -53,8 +53,8 @@ home= "Home"
 logo = "images/logo.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
-description = "Responsive Multipurpose Parallax HTML5 Template"
-author = "Themefisher"
+description = "Skeleton Tech Support by Skeleton Gamers"
+author = "Dr. Skelebones"
 # Google Analitycs
 googleAnalitycsID = "UA-142337934-1"
 custom_css = ["css/custom.css"]
