@@ -8,48 +8,48 @@ pricingTable :
     btnURL : #
     btnText : Signup
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
+      - planDetails : 1 skeleton associate
+      - planDetails : 10 skeleton memes
+      - planDetails : Skeleton Calcium Milkdrink
+      - planDetails : 1 Copy of Brutal DOOM
+      - planDetails : 10 GB of Skeleton Porn
       - planDetails : 24/7 Tech Support
       
-  - title : Silver
+  - title : Skele
     price : $149
     time : month
     btnURL : #
     btnText : Signup
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
+      - planDetails : 2 skeleton associates
+      - planDetails : 100 skeleton memes
+      - planDetails : Skeleton Calcium Monsterdrink
+      - planDetails : 1 Copy of DOOM 2016
+      - planDetails : 100 GB of Skeleton Porn
       - planDetails : 24/7 Tech Support
       
-  - title : Gold
+  - title : Boner
     price : $199
     time : month
     btnURL : #
     btnText : Signup
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
+      - planDetails : 4 skeleton associates
+      - planDetails : 1000 skeleton memes
+      - planDetails : Skeleton Calcium Monsterdrink Zero
+      - planDetails : 1 Copy of DUSK
+      - planDetails : 1 TB of Skeleton Porn
       - planDetails : 24/7 Tech Support
       
-  - title : Platinum
+  - title : THE BONE ZONE
     price : $299
     time : month
     btnURL : #
     btnText : Signup
     plan :
-      - planDetails : 1GB Disk Space
-      - planDetails : 10 Email Account
-      - planDetails : Script Installer
-      - planDetails : 1 GB Storage
-      - planDetails : 10 GB Bandwidth
+      - planDetails : 10 skeleton associates
+      - planDetails : 10000 skeleton memes
+      - planDetails : Skeleton Calcium Monsterdrink Zero Ultra
+      - planDetails : 1 Copy of New Blood Anthology
+      - planDetails : 10 TB of Skeleton Porn
       - planDetails : 24/7 Tech Support

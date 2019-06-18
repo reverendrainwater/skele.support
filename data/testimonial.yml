@@ -1,17 +1,12 @@
 enable : true
 bgImage : images/backgrounds/doomed.jpg
 testimonialItem :
-  - name : Jonathon Andrew
+  - name : Andrew Hulshite
     image : images/team/client-1.jpg
     date : Dec 26, 2018
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    content : With the help of Dr. Skelebones, I was able to save my marriage to the eThot I married! Needless to say, my Fortnite gaming streak has been up and up!
     
-  - name : Jonathon Andrew
+  - name : David Symenfuckthispolishname
     image : images/team/client-2.jpg
     date : Dec 26, 2018
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-    
-  - name : Jonathon Andrew
-    image : images/team/client-1.jpg
-    date : Dec 26, 2018
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    content : I'll never have broken bones again with the help of Dr. Skelebones and his team. Not to mention the amount of time I will save searching for skeleton porn!

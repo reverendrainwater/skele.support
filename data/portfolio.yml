@@ -2,75 +2,75 @@ enable : true
 heading : Our
 headingSpan : Works
 filterList :
-  - filterType : photography
-    filterTitle : Photography
+  - filterType : spook
+    filterTitle : Spook
     
-  - filterType : design
-    filterTitle : Design
+  - filterType : doot
+    filterTitle : Doot
     
-  - filterType : development
-    filterTitle : Development
+  - filterType : support
+    filterTitle : Support
 
 portfolioItem :
-  - types : design
-    image : images/portfolio/portfolio-1.jpg
+  - types : spook
+    image : images/portfolio/2spook.gif
     icon : tf-ion-android-search
     URL : #
-    title : Tag Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    title : 2spook
+    description : 
     
-  - types : development
-    image : images/portfolio/portfolio-2.jpg
+  - types : doot
+    image : images/portfolio/angrydoot.gif
     icon : tf-ion-android-search
     URL : #
-    title : Sound system
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    title : Angry Doot
+    description : 
     
-  - types : design, development
-    image : images/portfolio/portfolio-3.jpg
+  - types : doot, spook
+    image : images/portfolio/dootdoot.gif
     icon : tf-ion-android-search
     URL : #
-    title : Clock Product
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    title : Doot Doot
+    description : 
     
-  - types : photography, development
-    image : images/portfolio/portfolio-4.jpg
+  - types : spook
+    image : images/portfolio/keepscrolling.jpg
     icon : tf-ion-android-search
     URL : #
-    title : Bottol Label
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    title : Keep Scrolling
+    description : 
     
-  - types : design
-    image : images/portfolio/portfolio-5.jpg
+  - types : support
+    image : images/portfolio/MILK.gif
     icon : tf-ion-android-search
     URL : #
-    title : Shopping Bag
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    title : MILK
+    description : 
     
-  - types : photography
-    image : images/portfolio/portfolio-6.jpg
+  - types : spook
+    image : images/portfolio/oldskeledance.gif
     icon : tf-ion-android-search
     URL : #
-    title : Tag Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    title : Ragtime Skele
+    description : 
     
-  - types : development
-    image : images/portfolio/portfolio-7.jpg
+  - types : spook, support
+    image : images/portfolio/shotgunskelly.jpeg
     icon : tf-ion-android-search
     URL : #
-    title : Business Card
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    title : THE FARM
+    description : 
     
-  - types : design, development
-    image : images/portfolio/portfolio-8.jpg
+  - types : spook, doot, support
+    image : images/portfolio/skeledance.gif
     icon : tf-ion-android-search
     URL : #
-    title : Stationary Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    title : Him Dance, Him Spook
+    description : 
     
-  - types : design, photography
-    image : images/portfolio/portfolio-2.jpg
+  - types : spook
+    image : images/portfolio/skeletonfairy.gif
     icon : tf-ion-android-search
     URL : #
-    title : Tag Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+    title : Him Prance
+    description : 

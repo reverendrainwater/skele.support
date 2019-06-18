@@ -75,7 +75,7 @@ custom_css = ["css/custom.css"]
     enable = true
     title = "Yes, this is DOOM."
     content = ""
-    btnURL = "#contact"
+    btnURL = "#contact-us"
     btnText = "Start an account with us"
 
     # counter
@@ -104,34 +104,34 @@ custom_css = ["css/custom.css"]
 
     # footer
     [params.footer]
-        copyright = "Themefisher Team"
-        copyrightURL = "http://www.themefisher.com"
+        copyright = "Dr. Skelebones and Associates"
+        copyrightURL = "http://www.skele.support"
 
         # social Icons
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-facebook"
-        url = "#"
+        url = "http://waste.money"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
-        url = "#"
+        url = "http://waste.money"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-google-outline"
-        url = "#"
+        url = "http://waste.money"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-youtube"
-        url = "#"
+        url = "http://waste.money"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-linkedin"
-        url = "#"
+        url = "http://waste.money"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-dribbble-outline"
-        url = "#"
+        url = "http://waste.money"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-pinterest-outline"
-        url = "#"
+        url = "http://waste.money"
