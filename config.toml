@@ -1,0 +1,137 @@
+baseURL = "http://skele.support/"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "Skeleton Support"
+theme = "meghna-hugo"
+summaryLength = 10
+
+[taxonomies]
+  author = "Dr. Skelebones"
+  category = "categories"
+  tag = "tags"
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "About Us"
+    URL = "about"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Service"
+    URL = "services"
+    weight = 3
+
+    [[menu.nav]]
+    name = "Portfolio"
+    URL = "portfolio"
+    weight = 4
+
+    [[menu.nav]]
+    name = "Team"
+    URL = "our-team"
+    weight = 5
+
+    [[menu.nav]]
+    name = "Pricing"
+    URL = "pricing"
+    weight = 6
+
+    [[menu.nav]]
+    name = "Blog"
+    URL = "blog"
+    weight = 7
+
+    [[menu.nav]]
+    name = "Contact"
+    URL = "contact-us"
+    weight = 8
+
+# Site params
+[params]
+home= "Home"
+logo = "images/logo.png"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+# Meta data
+description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "UA-142337934-1"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/vanskele.jpg"
+    icon = "tf-ion-play"
+    heading = "Experience the rattling."
+    content= "Dr. Skelebones provides next level tech support to gamers. Gamers rise up!"
+    btn = true
+    btnText="Begin Rattling"
+    btnURL="#services"
+
+    # call to action
+    [params.cta]
+    enable = true
+    title = "Yes, this is DOOM."
+    content = ""
+    btnURL = "#contact"
+    btnText = "Start an account with us"
+
+    # counter
+    [params.counter]
+    enable = true
+    bgImage = "images/backgrounds/coverart.jpg"
+        [[params.counter.counterItem]]
+        title = "Happy Gamers"
+        icon = "tf-ion-android-happy"
+        count = "320"
+
+        [[params.counter.counterItem]]
+        title = "Skeletons Rattles Downloaded"
+        icon = "tf-ion-archive"
+        count = "565"
+
+        [[params.counter.counterItem]]
+        title = "Updoots on Reddit"
+        icon = "tf-ion-thumbsup"
+        count = "247839"
+
+        [[params.counter.counterItem]]
+        title = "Cups of Warm Calcium"
+        icon = "tf-ion-coffee"
+        count = "NaN"
+
+    # footer
+    [params.footer]
+        copyright = "Themefisher Team"
+        copyrightURL = "http://www.themefisher.com"
+
+        # social Icons
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-facebook"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-twitter"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-google-outline"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-youtube"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-linkedin"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-dribbble-outline"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-pinterest-outline"
+        url = "#"

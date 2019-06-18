@@ -1,0 +1,15 @@
+enable : true
+heading : About
+headingSpan : Us
+aboutItem : 
+- icon : tf-tools
+  title : We're Calcium
+  content : Skelebones guarantees all clients calcium support as well as tech support.
+
+- icon : tf-strategy
+  title : We're Gamers
+  content : All Skeleton Support associates are gamers. Ask to add us on Epic.
+
+- icon : tf-anchor2
+  title : We're Pirates
+  content : Some of our skeleton associates were pirates in their meat life!

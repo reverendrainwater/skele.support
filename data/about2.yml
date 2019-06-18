@@ -1,0 +1,13 @@
+enable : true
+image : images/about/sexytor.jpg
+title : We’re A Skeleton Tech Support Company.
+description : Our clients never complain about our skeleton support. Though we get a complaint about the rattling every now and again.
+description2 : We provide all the support you need from verifying the integrity of your games through Steam to updating Adobe Reader. 
+aboutItem : 
+  - icon : tf-circle-compass
+    title : Logistical Bones
+    content : With part of our team being pirates in previous meat life, we are excellent at navigating.
+    
+  - icon : tf-hotairballoon
+    title : Ease of Access
+    content : We can access you and you can access us through a multitude of means. Feel free to visit our office in the Charlotte graveyard.

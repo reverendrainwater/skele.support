@@ -1,0 +1,59 @@
+enable : true
+heading : Our
+headingSpan : Team
+teamMember :
+  - image : images/team/rattlemebones.png
+    name : Dr. Skelebones
+    designation : CEO/Founder, Reverend, Notary Public
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-dribbble-outline
+        url : "#"
+      
+  - image : images/team/revdance.gif
+    name : Mr. Revenant
+    designation : Manager
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-dribbble-outline
+        url : "#"
+      
+  - image : images/team/NYES.gif
+    name : Lord Skeletor
+    designation : Web Developer, SharePoint Architect, .NET specialist
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-dribbble-outline
+        url : "#"
+      
+  - image : images/team/skeleravenito.gif
+    name : Gravelord Nito
+    designation : SEO Specialist, OBGYN, CCNA
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-dribbble-outline
+        url : "#"

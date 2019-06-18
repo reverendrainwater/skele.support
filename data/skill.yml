@@ -1,0 +1,26 @@
+enable : true
+heading : Our
+headingSpan : Skills
+title : We’ve skilled in wide range of areas concerning tech support.
+content : Through the years, we have grown our calcium usage and at the same time have reduced out calcium usage through green initiatives.
+image : images/about/company-growth.png
+skillItem :
+  - itemNumber : 01-
+    itemName :  Tech Support
+    itemPercent : 90%
+    
+  - itemNumber : 02-
+    itemName :  Calcium Support
+    itemPercent : 80%
+    
+  - itemNumber : 03-
+    itemName :  Installing Adobe Reader
+    itemPercent : 80%
+    
+  - itemNumber : 04-
+    itemName :  Running Malwarebytes
+    itemPercent : 95%
+    
+  - itemNumber : 05-
+    itemName :  Using Hugo to make a shitty site
+    itemPercent : 75%
