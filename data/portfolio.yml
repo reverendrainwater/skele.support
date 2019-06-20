@@ -15,62 +15,62 @@ portfolioItem :
   - types : spook
     image : images/portfolio/2spook.gif
     icon : tf-ion-android-search
-    URL : #
+    URL : "http://waste.money"
     title : 2spook
     description : 
     
   - types : doot
     image : images/portfolio/angrydoot.gif
     icon : tf-ion-android-search
-    URL : #
+    URL : "http://waste.money"
     title : Angry Doot
     description : 
     
   - types : doot, spook
     image : images/portfolio/dootdoot.gif
     icon : tf-ion-android-search
-    URL : #
+    URL : "http://waste.money"
     title : Doot Doot
     description : 
     
   - types : spook
     image : images/portfolio/keepscrolling.jpg
     icon : tf-ion-android-search
-    URL : #
+    URL : "http://waste.money"
     title : Keep Scrolling
     description : 
     
   - types : support
     image : images/portfolio/MILK.gif
     icon : tf-ion-android-search
-    URL : #
+    URL : "http://waste.money"
     title : MILK
     description : 
     
   - types : spook
     image : images/portfolio/oldskeledance.gif
     icon : tf-ion-android-search
-    URL : #
+    URL : "http://waste.money"
     title : Ragtime Skele
     description : 
     
   - types : spook, support
     image : images/portfolio/shotgunskelly.jpeg
     icon : tf-ion-android-search
-    URL : #
+    URL : "http://waste.money"
     title : THE FARM
     description : 
     
   - types : spook, doot, support
     image : images/portfolio/skeledance.gif
     icon : tf-ion-android-search
-    URL : #
+    URL : "http://waste.money"
     title : Him Dance, Him Spook
     description : 
     
   - types : spook
     image : images/portfolio/skeletonfairy.gif
     icon : tf-ion-android-search
-    URL : #
+    URL : "http://waste.money"
     title : Him Prance
     description : 

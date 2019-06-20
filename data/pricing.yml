@@ -1,11 +1,11 @@
 enable : true
-heading : Our Greatest
+heading : Our Skeletonest
 headingSpan : Plans
 pricingTable :
   - title : Free
     price : $99
     time : month
-    btnURL : #
+    btnURL : "http://waste.money"
     btnText : Signup
     plan :
       - planDetails : 1 skeleton associate
@@ -15,10 +15,10 @@ pricingTable :
       - planDetails : 10 GB of Skeleton Porn
       - planDetails : 24/7 Tech Support
       
-  - title : Skele
+  - title : Bone
     price : $149
     time : month
-    btnURL : #
+    btnURL : "https://www.christianmingle.com/"
     btnText : Signup
     plan :
       - planDetails : 2 skeleton associates
@@ -31,7 +31,7 @@ pricingTable :
   - title : Boner
     price : $199
     time : month
-    btnURL : #
+    btnURL : "https://www.farmersonly.com/"
     btnText : Signup
     plan :
       - planDetails : 4 skeleton associates
@@ -44,7 +44,7 @@ pricingTable :
   - title : THE BONE ZONE
     price : $299
     time : month
-    btnURL : #
+    btnURL : "https://maiotaku.com/"
     btnText : Signup
     plan :
       - planDetails : 10 skeleton associates

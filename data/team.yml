@@ -8,13 +8,13 @@ teamMember :
     description : Creator of the skeleton army, ready to better you life!
     socialIcon :
       - icon : tf-ion-social-facebook
-        url : "#"
+        url : "http://waste.money"
       - icon : tf-ion-social-twitter
-        url : "#"
+        url : "http://waste.money"
       - icon : tf-ion-social-linkedin
-        url : "#"
+        url : "http://waste.money"
       - icon : tf-ion-social-dribbble-outline
-        url : "#"
+        url : "http://waste.money"
       
   - image : images/team/revanimate.gif
     name : Mr. Revenant
@@ -22,13 +22,13 @@ teamMember :
     description : He said something once but noone could hear him over the constant screaming. 
     socialIcon :
       - icon : tf-ion-social-facebook
-        url : "#"
+        url : "http://waste.money"
       - icon : tf-ion-social-twitter
-        url : "#"
+        url : "http://waste.money"
       - icon : tf-ion-social-linkedin
-        url : "#"
+        url : "http://waste.money"
       - icon : tf-ion-social-dribbble-outline
-        url : "#"
+        url : "http://waste.money"
       
   - image : images/team/NYES.gif
     name : Lord Skeletor
@@ -36,13 +36,13 @@ teamMember :
     description : He does things but most of the time is fighting some blonde dude in gimp gear riding a mutant animal.
     socialIcon :
       - icon : tf-ion-social-facebook
-        url : "#"
+        url : "http://waste.money"
       - icon : tf-ion-social-twitter
-        url : "#"
+        url : "http://waste.money"
       - icon : tf-ion-social-linkedin
-        url : "#"
+        url : "http://waste.money"
       - icon : tf-ion-social-dribbble-outline
-        url : "#"
+        url : "http://waste.money"
       
   - image : images/team/skeleravenito.gif
     name : Gravelord Nito
@@ -50,10 +50,10 @@ teamMember :
     description : Absolute mad lad, absolute chad.
     socialIcon :
       - icon : tf-ion-social-facebook
-        url : "#"
+        url : "http://waste.money"
       - icon : tf-ion-social-twitter
-        url : "#"
+        url : "http://waste.money"
       - icon : tf-ion-social-linkedin
-        url : "#"
+        url : "http://waste.money"
       - icon : tf-ion-social-dribbble-outline
-        url : "#"
+        url : "http://waste.money"
